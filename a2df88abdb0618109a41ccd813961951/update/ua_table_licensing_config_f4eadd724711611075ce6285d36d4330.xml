@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-22 15:24:01</sys_created_on>
-        <sys_id>36005cabdb0618109a41ccd8139619b4</sys_id>
+        <sys_id>f4eadd724711611075ce6285d36d4330</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_bssample_gen_sample_generic_table</sys_name>
         <sys_package display_value="Sample Repo" source="x_snc_bssample_gen">a2df88abdb0618109a41ccd813961951</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sample Repo">a2df88abdb0618109a41ccd813961951</sys_scope>
-        <sys_update_name>ua_table_licensing_config_36005cabdb0618109a41ccd8139619b4</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_f4eadd724711611075ce6285d36d4330</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-22 15:24:01</sys_updated_on>
     </ua_table_licensing_config>
